@@ -1,0 +1,31 @@
+#container
+{
+	position: relative;
+	width: 1000px;
+	margin: auto;
+}
+#main
+{
+	width: 1000px;
+}
+#header
+{
+	background-color: black;
+	width: 1000px;
+	height: 100px;
+	margin-bottom: 10px;
+}
+#left
+{
+	background-color: pink;
+	width: 200px;
+	height: 600px;
+	float: left;
+}
+#right
+{
+	background-color:navajowhite;
+	width: 800px;
+	height: 600px;
+	float: left;
+}
